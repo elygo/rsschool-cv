@@ -12,7 +12,7 @@ Native: Uzbek
 Other: English (C1), Russian (C1), German (B1)   
 A decade of studying English, in addition to that I have studied in an English degree program which lasted two years. 
 ### Experience
-I have defended my Master's on theme *'Implementation and Evaluation of a Crowd-based approach for georeferrncing of raster maps'*. Part of which was a development of a web site 
+I have defended my Master's on theme *'Implementation and Evaluation of a Crowd-based approach for georeferencing of raster maps'*. Part of which was a development of a web site 
 based on PHP, Javascript, SQL, HTML, CSS. Link: [Web crowdsourcing](https://github.com/elygo/web_crowdsourcing)  
 I am currently working on a small project (Geoportal) using Sencha framework, QGIS, Geoserver, PostGIS and different JSON files. 
 ### Education
